@@ -33,5 +33,3 @@ player.onChat("run", function () {
 ```
 これを使うよ！
 
-
-
